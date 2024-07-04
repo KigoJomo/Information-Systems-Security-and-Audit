@@ -1,4 +1,4 @@
-# CIT3102: Information System Security and Audit
+# CIT 3102: Information System Security and Audit
 
 ## Overview
 
